@@ -1,0 +1,2 @@
+<input class="form-control input-newletter mc4wp_email" name="EMAIL" required="" type="email" placeholder="Enter your email..."> 
+<button type="submit" value="Submit"> Subscribe </button>
